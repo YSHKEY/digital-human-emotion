@@ -1,0 +1,32 @@
+# ===== 大数据集（从竞赛平台另行获取，不入库，避免仓库膨胀） =====
+训练-验证-数据集/train/train_public.jsonl
+训练-验证-数据集/val/val_public.jsonl
+
+# ===== 平台说明文档（二进制，本地保留即可，可不入库） =====
+咪咕仝学平台实例创建demo V1.docx
+
+# ===== Python =====
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# ===== 虚拟环境 =====
+.venv/
+venv/
+env/
+
+# ===== 编辑器 / OS =====
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# ===== 日志与本地中间产物 =====
+*.log
+.cache/
+
+# ===== WorkBuddy 工作区元数据 =====
+.workbuddy/

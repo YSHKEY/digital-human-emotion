@@ -1,0 +1,9 @@
+# 训练 / 推理 / 评测依赖（按阶段逐步补充）
+transformers>=4.44
+torch>=2.3
+datasets>=2.20
+scikit-learn>=1.5
+tqdm>=4.66
+pandas>=2.2
+accelerate>=0.33
+peft>=0.12
